@@ -1,4 +1,4 @@
-# Google LLC vs Oracle America, Inc. (2021)
+Google LLC vs Oracle America, Inc. (2021)
 
 	The case of Google LLC v. Oracle America, Inc. revolved around a long-standing dispute between Google and Oracle over the use of Java  application programming interfaces (APIs) in Google's Android operating system. Oracle acquired Java when it bought Sun Microsystems in 2010 and  subsequently sued Google, alleging that Google's use of Java APIs in  Android infringed on Oracle's copyrights.
 	
